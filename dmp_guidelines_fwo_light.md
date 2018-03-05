@@ -20,7 +20,7 @@ The FWO has made data management a key element of its policy for all support cha
 
 This is specific for each research project. Be aware that you might generate more data then you initially think: sequencing, proteomics, phenotyping, microscopy, qPCR, spreadsheets with measurements, ...
 
-You can find a draft text with details for each datatype [here](dmp_datatypes), this is a work in progress !
+You can find a draft text with details for each datatype [here](datatypes/datatypes.md), this is a work in progress !
 
 ### Data Storage
 
