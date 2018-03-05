@@ -28,22 +28,26 @@ Data will be stored for at least five years after completion of the research pro
 Upon publication, relevant data will be made available either in appropriate repositories or e.g. using service such as zenodo.org, dryad, etc.   
 ```
 
-### Data preservation
+## Data preservation
 
 *Is there a reason you wish to deviate from the principle of preservation of data and of the minimum preservation term of 5 years?*
 
+```
 Data will be stored for at least five years after completion of the research project.
+```
 
-
-### Ethics
+## Ethics
 
 *If issues concerning research data are indicated in the ethics questionnaire of this application form, will those data require specific security measures; if yes, can they be put in place?*
 
+```
 As the project does not involve research on embryo's, foetus, humans, or animals, no ethical issues are involved.
+```
 
-
-### Other
+## Other
 
 *Are there other issues related to the data management you think relevant to mention?*
 
+```
 Feedback to FWO can be provided here.
+```
