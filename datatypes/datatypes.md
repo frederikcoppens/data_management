@@ -7,5 +7,5 @@
 
 ## Datatypes
 
-[Sequencing based](sequencing_based.md)
-[Proteomics](proteomics.md)
+* [Sequencing based](sequencing_based.md)
+* [Proteomics](proteomics.md)
