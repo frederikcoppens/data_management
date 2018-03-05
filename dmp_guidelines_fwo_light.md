@@ -20,12 +20,13 @@ All data needs to be stored on shared drives (group drive, dedicated project sha
 
 ### Storage capacity/repository during/after research
 
+```
 During the research all data will be stored in the data center at the VIB-UGent Center for Plant Systems Biology. Sufficient storage capacity will be ensured for the project.
 The data integrity is ensured through internal replication of the storage array and tape backup.
 
 Data will be stored for at least five years after completion of the research project.
 Upon publication, relevant data will be made available either in appropriate repositories or e.g. using service such as zenodo.org, dryad, etc.   
-
+```
 
 ### Data preservation
 
