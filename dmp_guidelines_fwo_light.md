@@ -22,18 +22,20 @@ All data needs to be stored on shared drives (group drive, dedicated project sha
 
 ```
 During the research all data will be stored in the data center at the VIB-UGent Center for Plant Systems Biology. Sufficient storage capacity will be ensured for the project.
-The data integrity is ensured through internal replication of the storage array and tape backup.
+Access is controlled through standard IT practices and data integrity is ensured through internal replication of the storage array and tape backup.
 
 Data will be stored for at least five years after completion of the research project.
-Upon publication, relevant data will be made available either in appropriate repositories or e.g. using service such as zenodo.org, dryad, etc.   
+Upon publication, relevant data will be made available either in appropriate repositories or e.g. using generic services such as zenodo.org, dryad, etc.   
 ```
+
+During the research all procedures and protocols will be recorded in detail via an Electronic Lab Book that is centrally stored on VIB servers.
 
 ## Data preservation
 
 *Is there a reason you wish to deviate from the principle of preservation of data and of the minimum preservation term of 5 years?*
 
 ```
-Data will be stored for at least five years after completion of the research project.
+No, data will be stored for at least five years after completion of the research project.
 ```
 
 ## Ethics
