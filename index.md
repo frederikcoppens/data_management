@@ -21,7 +21,7 @@ The FWO has made data management a key element of its policy for all support cha
 
 #### FWO DMP light
 
-[DMP guidelines for FWO "light"](dmp_guidelines_fwo_light.md)
+[DMP guidelines for FWO "light"](data_management/dmp_guidelines_fwo_light.md)
 
 
 ## More Information
