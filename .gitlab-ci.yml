@@ -14,11 +14,12 @@ before_script:
 - gem build eventmachine.gemspec
 - sudo gem install eventmachine-1.0.9.1.gem
 - bundle install
+- sudo gem install jekyll
 
 test:
   stage: test
   script:
-  - bundle exec jekyll version build -d test
+  - bundle exec jekyll build -d test
   artifacts:
     paths:
     - test
@@ -28,7 +29,7 @@ test:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll version build -d public
+  - bundle exec jekyll build -d public
   artifacts:
     paths:
     - public
