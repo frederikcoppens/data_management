@@ -8,6 +8,7 @@ variables:
   LC_ALL: C.UTF-8
 
 before_script:
+- sudo gem install bundler
 - gem unpack eventmachine -v '1.0.9.1'
 - cd eventmachine-1.0.9.1
 - wget https://github.com/eventmachine/eventmachine/raw/master/eventmachine.gemspec
