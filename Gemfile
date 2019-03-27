@@ -7,6 +7,7 @@ gem "jekyll", "3.5.0"
 # Themes from GitHub
 gem 'jekyll-seo-tag'
 gem "jekyll-remote-theme"
+gem 'jekyll-relative-links'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

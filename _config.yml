@@ -6,3 +6,10 @@ plugins:
 remote_theme: pages-themes/slate
 
 markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: false
