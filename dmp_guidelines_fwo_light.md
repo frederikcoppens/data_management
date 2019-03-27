@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # FWO DMP light
