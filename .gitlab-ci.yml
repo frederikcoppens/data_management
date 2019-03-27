@@ -1,14 +1,18 @@
 # This file is a template, and might need editing before it works on your project.
 # Template project: https://gitlab.com/pages/jekyll
 # Docs: https://docs.gitlab.com/ce/pages/
-image: ruby:2.6
+image: ruby:2.3
+
+cache:
+  paths:
+    - vendor/
 
 variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
 before_script:
-- sudo gem install bundler
+- bundle install --path vendor
 - gem unpack eventmachine -v '1.0.9.1'
 - cd eventmachine-1.0.9.1
 - wget https://github.com/eventmachine/eventmachine/raw/master/eventmachine.gemspec
