@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: slate
 ---
 
 ## Data Management Plan (DMP)
