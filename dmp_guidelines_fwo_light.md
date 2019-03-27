@@ -1,3 +1,6 @@
+---
+---
+
 # FWO DMP light
 
 ## Description of data
@@ -25,7 +28,7 @@ During the research all data will be stored in the data center at the VIB-UGent 
 Access is controlled through standard IT practices and data integrity is ensured through internal replication of the storage array and tape backup.
 
 Data will be stored for at least five years after completion of the research project.
-Upon publication, relevant data will be made available either in appropriate repositories or e.g. using generic services such as zenodo.org, dryad, etc.   
+Upon publication, relevant data will be made available either in appropriate repositories or e.g. using generic services such as zenodo.org, dryad, etc.
 ```
 
 During the research all procedures and protocols will be recorded in detail via an Electronic Lab Book that is centrally stored on VIB servers.
