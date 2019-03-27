@@ -3,22 +3,11 @@
 # Docs: https://docs.gitlab.com/ce/pages/
 image: ruby:2.3
 
-cache:
-  paths:
-    - vendor/
-
 variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
 before_script:
-- bundle install --path vendor
-- cd vendor
-- gem unpack eventmachine -v '1.0.9.1'
-- cd eventmachine-1.0.9.1
-- wget https://github.com/eventmachine/eventmachine/raw/master/eventmachine.gemspec
-- gem build eventmachine.gemspec
-- gem install --path vendor eventmachine-1.0.9.1.gem
 - bundle install
 
 test:
