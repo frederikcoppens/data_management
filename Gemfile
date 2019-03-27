@@ -5,6 +5,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.5.0"
 
 # Themes from GitHub
+gem 'jekyll-seo-tag'
 gem "jekyll-remote-theme"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
