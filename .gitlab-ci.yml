@@ -12,7 +12,7 @@ before_script:
 - cd eventmachine-1.0.9.1
 - wget https://github.com/eventmachine/eventmachine/raw/master/eventmachine.gemspec
 - gem build eventmachine.gemspec
-- gem install eventmachine-1.0.9.1.gem
+- sudo gem install eventmachine-1.0.9.1.gem
 - bundle install
 
 test:
