@@ -5,8 +5,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.7.4"
 
 # Themes from GitHub
-gem 'eventmachine'
-gem "github-pages", '197', group: :jekyll_plugins
+gem "jekyll-remote-theme"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

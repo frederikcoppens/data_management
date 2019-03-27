@@ -1,14 +1,13 @@
 # This file is a template, and might need editing before it works on your project.
 # Template project: https://gitlab.com/pages/jekyll
 # Docs: https://docs.gitlab.com/ce/pages/
-image: ruby:alpine
+image: ruby:2.6
 
 variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
 before_script:
-- apk add --no-cache g++ musl-dev make
 - bundle install
 
 test:
