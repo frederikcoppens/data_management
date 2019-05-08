@@ -1,3 +1,9 @@
+---
+permalink: "/datatypes/"
+layout: default
+title:  "RNA-seq data type"
+---
+
 ## Sequencing based data
 
 
@@ -22,6 +28,8 @@ Section 2 Question 2: Describe the origin, type and format of the data (per data
 
 * Raw digital data, compressed FastQ data, ~1-5GB per dataset
 
+
+
 #### Volume
 
 Project dependent
@@ -35,6 +43,17 @@ Metadata will be provided according to the ArrayExpress standard.
 ### Will a metadata standard be used?
 
 The metadata standard used by ArrayExpress (MIAME).
+
+Section 7
+
+### Which data will be made available after the end of the project?
+
+All relevant data for reuse will be
+
+### Where/how will the data be made available for reuse?
+
+Public Repository: ArrayExpress
+
 
 ### ChIP-seq
 
