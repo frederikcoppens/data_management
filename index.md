@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- GITLAB rendered file -->
+
 ## Data Management Plan (DMP)
 
 Data management is an integral part of sound scientific research.  It covers
@@ -21,12 +23,16 @@ The FWO has made data management a key element of its policy for all support cha
 
 #### FWO DMP light
 
-[DMP guidelines for FWO "light"](dmp_guidelines_fwo_light.md)
+[DMP guidelines for FWO "light"](dmp_guidelines_fwo_light.html)
 
 
 #### FWO full DMPonline
 
 [DMP for FWO "full" for PSB](dmp_guidelines_fwo_full.html)
+
+#### Data types
+
+[Sequencing based](datatypes/sequencing_based.html)
 
 
 ## More Information
