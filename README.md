@@ -22,7 +22,7 @@ The FWO has made data management a key element of its policy for all support cha
 
 #### FWO full DMPonline
 
-[DMP guidelines for FWO "full"](data_management/dmp_guidelines_fwo_full.html)
+[DMP guidelines for FWO "full"](dmp_guidelines_fwo_full.html)
 
 ## More Information
 
