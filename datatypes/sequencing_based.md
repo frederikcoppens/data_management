@@ -1,5 +1,5 @@
 ---
-permalink: "/datatypes/"
+permalink: "/datatypes/sequencing_based.html"
 layout: default
 title:  "RNA-seq data type"
 ---
