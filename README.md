@@ -1,7 +1,3 @@
-# Data management in Life Sciences
-
-Information on data management in Life Sciences.
-
 ## Data Management Plan (DMP)
 
 Data management is an integral part of sound scientific research.  It covers
@@ -23,6 +19,10 @@ The FWO has made data management a key element of its policy for all support cha
 
 [DMP guidelines for FWO "light"](dmp_guidelines_fwo_light.md)
 
+
+#### FWO full DMPonline
+
+[DMP guidelines for FWO "full"](data_management/dmp_guidelines_fwo_full.html)
 
 ## More Information
 

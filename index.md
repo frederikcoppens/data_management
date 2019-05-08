@@ -24,6 +24,11 @@ The FWO has made data management a key element of its policy for all support cha
 [DMP guidelines for FWO "light"](dmp_guidelines_fwo_light.md)
 
 
+#### FWO full DMPonline
+
+[DMP guidelines for FWO "full"](data_management/dmp_guidelines_fwo_full.html)
+
+
 ## More Information
 
 * [EC H2020 policy](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
