@@ -32,7 +32,7 @@ The FWO has made data management a key element of its policy for all support cha
 
 #### Data types
 
-[Sequencing based](datatypes/sequencing_based.html)
+[Datatypes info](datatypes/datatypes.html)
 
 
 ## More Information

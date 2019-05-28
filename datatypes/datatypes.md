@@ -7,5 +7,8 @@
 
 ## Datatypes
 
-* [Sequencing based](sequencing_based.md)
-* [Proteomics](proteomics.md)
+* [RNA-seq](rnaseq.md)
+* [Proteomics, TAP](proteomics.md)
+* [Plant Phenotyping](phenotyping.md)
+* [Genome sequencing](genomeseq.md)
+* [Microscopy](microscopy.md)
