@@ -23,6 +23,7 @@ Section 2 Question 2: Describe the origin, type and format of the data (per data
 #### Volume
 
 Project dependent
+
 SIZE estimates 
 * 20M, 75bp, SE illumina reads: 1Gb / sample
 * 20M, 75bp, PE illumina reads: 2Gb / sample
