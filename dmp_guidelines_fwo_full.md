@@ -164,7 +164,7 @@ These costs will be covered by the FWO project.
 
 ### 5.5 Data security: how will you ensure that the data are securely stored and not accessed or modified by unauthorized persons?
 
-Access is controlled through standard IT practices, restricting access to relevant personnel.
+Access is controlled through standard IT practices, restricting access to relevant personnel only.
 
 ## 6. Data preservation after the end of the FWO project
 
@@ -174,13 +174,13 @@ Access is controlled through standard IT practices, restricting access to releva
 
 <!--*In case only a selection of the data can/will be preserved, clearly state the reasons for this (legal or contractual restrictions, physical preservation issues...).*-->
 
-All relevant data for reuse will be preserved. Details are available in the "Sharing and reuse" section of this DMP.
+All relevant data for reuse and experiment replicability will be preserved. Details are available in the "Sharing and reuse" section of this DMP.
 
 *Guideline: here we only list exceptions.*
 
 ### 6.2 Where will these data be archived (= stored for the long term)?
 
-Data will be default archived at the VIB-UGent Center for Plant Systems Biology. Upon publication, relevant data will be made available either in appropriate repositories or e.g. using generic services such as zenodo.org, dryad, etc. These services will ensure long term storage.
+Data will be by default archived at the VIB-UGent Center for Plant Systems Biology. Upon publication, relevant data will be made available either in appropriate repositories or e.g. using generic services such as zenodo.org, dryad, etc. These services will ensure long term storage.
 
 ### 6.3 What are the expected costs for data preservation during these 5 years? How will the costs be covered?
 
@@ -221,7 +221,7 @@ Data will be made available Open Access
 
 ### 7.6 What are the expected costs for data sharing? How will these costs be covered?
 
-Data will be default using public repositories or services such as zenodo.org, which are free for use. In case institutional repositories are used, the institute will cover these costs.
+Data will be made available using public repositories or services such as zenodo.org, which are free for use. In case institutional repositories are used, the institute will cover these costs.
 
 ## 8. Responsabilities
 
