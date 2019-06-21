@@ -28,6 +28,8 @@ SIZE estimates
 * 20M, 75bp, SE illumina reads: 1Gb / sample
 * 20M, 75bp, PE illumina reads: 2Gb / sample
 
+* 20M, 100bp, PE illumina reads: 3Gb / sample
+
 Section 4
 
 ### What documentation will be provided to enable understanding and reuse of the data collected/generated in this project?
