@@ -1,6 +1,6 @@
 # Phenotyping
 
-Plant phenotyping data will be stored and made available upon publication in PIPPA (https://pippa.psb.ugent.be), maintained by the VIB-UGent Center for Plant Systems Biology.
+Plant phenotyping data will be stored and made available upon publication in PIPPA (https://pippa.psb.ugent.be), maintained by the VIB-UGent Center for Plant Systems Biology. PIPPA uses and is compliant with MIAPPE (https://github.com/MIAPPE/MIAPPE), The Minimal Information About Plant Phenotyping Experiment.
 
 ## Measurements
 
