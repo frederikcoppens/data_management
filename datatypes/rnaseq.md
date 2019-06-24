@@ -5,7 +5,7 @@
 
  Raw RNA sequencing data will be stored as compressed fastq files. Processed data are tab-delimited text files containing read counts per gene.
   Upon publication, data will be submitted to ArrayExpress.
-Details of the analysis methodology will be provided.  Metadata will be captured conform the standards of this repository
+Details of the analysis methodology will be provided.  Metadata will be captured conform the standards of this repository. The minimum set of data and meta-data for a given study/experiment is defined in MINSEQE ( http://fged.org/projects/minseqe/) for NGS.
 
 ### RNA-seq full version
 
