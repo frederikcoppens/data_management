@@ -19,6 +19,11 @@ Section 2 Question 2: Describe the origin, type and format of the data (per data
 #### Data type, format
 
 * Raw digital data, compressed FastQ data, ~1-5GB per dataset
+example:
+Digital data:
+
+    RNAseq data; Next generation sequencing raw data, compressed fastq format
+    16 genotypes, 1 tissue from maize; per sample 20M 75bp PE illumina reads; 3 replicates; totalling 96Gb;
 
 #### Volume
 
