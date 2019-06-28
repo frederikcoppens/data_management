@@ -1,6 +1,6 @@
 ## Proteomics
 
-Raw MS spectra data will be stored. Upon publication, data will be submitted to PRIDE. Metadata will be captured conform the MIAPE standards (http://www.psidev.info/miape) of this repository.
+Raw MS spectra data will be stored. Upon publication, proteomics data will be submitted to PRIDE. Metadata will be captured conform the MIAPE standards (http://www.psidev.info/miape) of this repository.
 
 MS-spectra
 
