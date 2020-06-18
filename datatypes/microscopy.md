@@ -1,6 +1,6 @@
 # Confocal
 
-
+Confocal image raw data will be stored and submitted to the BioImage Archive repository (https://www.ebi.ac.uk/bioimage-archive/) following their guidelines and metadata requirements.
 
 # Electron microscopy
 
