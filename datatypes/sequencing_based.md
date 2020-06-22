@@ -59,7 +59,7 @@ Public Repository: ArrayExpress
 
 Raw sequencing data will be stored as compressed fastq files. Upon publication, data will be submitted to ArrayExpress. Metadata will be captured conform the standards of this repository.
 
-### Genome Sequencing: EMS
+### Genome Sequencing: EMS / Genome sequencing
 
 Raw sequencing data will be stored as compressed fastq files. Upon publication, data will be submitted to ENA. Metadata will be captured conform the standards of this repository.
 
